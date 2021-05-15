@@ -1,0 +1,11 @@
+h1{color:brown;}
+*{font-style:italic;
+        font-size: 50px;}
+.header{background-color: cyan;
+        display:flex;justify-content: space-between;}
+.box{background-color: rgb(0, 139, 139);display: flex;justify-content: space-evenly;}
+.b{background-color: darkred;display:flex;justify-content: space-evenly;}
+.o{background-color: green;display:flex;justify-content: space-evenly;}
+.x{background-color: grey;display:flex;justify-content: space-evenly;}
+.icon1{display:flex;justify-content: flex-end;}
+body{background-color:#808080;}
